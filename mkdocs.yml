@@ -2,3 +2,6 @@ site_name: Catadelphia
 nav:
     - Home: index.md
     - Getting Started: start.md
+    - Philadelphia Shelters & Clinics: shelters-philly.md
+    - Philadelphia Vets: vets-philly.md
+
