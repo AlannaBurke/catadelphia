@@ -6,6 +6,7 @@ ACCT Philly is the region’s largest open admission animal care and control ser
 ### Phone: (267) 385-3800
 ### Fax: (215) 261-6092
 ### Email: info@acctphilly.org
+### Web: [http://www.acctphilly.org](http://www.acctphilly.org)
 ## Hours
 ### Adoptions
  * Monday – Friday: 1pm – 8pm
@@ -49,9 +50,78 @@ Adoption fees vary depending on age, species and breed. We have frequent "fee wa
 ### Body Disposal: Free of charge
 ## Notes:
 ACCT does not run a public clinic and is unable to address medical emergencies for owned pets. 	
-## ACCT Community Cats Program
+## [ACCT Community Cats Program](http://www.acctphilly.org/programs/community-cats/)
 In the office Monday, Wednesday, Friday from 8-5 and Tuesday & Thursday from 8-4. Every other Saturday from 9-5.     
 [communitycats@acctphilly.org](mailto:communitycats@acctphilly.org)        
 267-385-3800 x 103 or x 222    
 Voicemail and email are checked regularly during office hours.     
 
+# PSPCA
+Offers comprehensive primary care (wellness exams, preventative medicine, vaccines, spay/neuter surgery, digital x-rays, in-house blood work, end of life care)
+Does not offer emergency or after hours care
+## Location
+350 E. Erie Ave., Philadelphia, PA 19134 (Headquarters)
+## Contact
+### Phone: 215-426-6300
+### Email: callcenter@pspca.org
+### Website: https://pspca.org/veterinary-services/wellness-clinic/
+## Hours
+### Primary Care Clinic
+* Monday through Saturday: 8:00am to 5:30pm. Tech appointments and vaccines until 6:00pm
+Closed major holidays.
+* Walk ins on a first come first serve basis. Recommend arriving early in the day as a maximum number of appointments are seen per day. 
+### Vaccine Clinics
+* PSPCA (Headquarters): Every Wednesday and Saturday 9am-3pm
+* PSPCA Fishtown (1546 Frankford Avenue, Philadelphia, PA 19125): Every Monday 5-7pm; 1st and 3rd Saturday of the month 9-10:30am.
+* PSPCA Lancaster (848 S. Prince St., Lancaster, PA 17603): 2nd Friday of the month 2-5pm; 4th Saturday of the month 1-5pm
+* see website for other vaccine clinic locations and pricing [https://www.pspca.org/vaccine-clinics](https://www.pspca.org/vaccine-clinics)
+### Spay/Neuter Surgery:
+* By Appointment
+* To Schedule online:
+[https://docs.google.com/forms/d/e/1FAIpQLSeglN_rSXbMLkdoIOoRgrnQzqpa6dP5LJitGXO2nXkPrfMEwg/viewform?c=0&w=1](https://docs.google.com/forms/d/e/1FAIpQLSeglN_rSXbMLkdoIOoRgrnQzqpa6dP5LJitGXO2nXkPrfMEwg/viewform?c=0&w=1)
+* To schedule by phone: 215-426-6300.
+## Costs
+* Physical exam: $42*
+* Veterinary technician appointment: $15*
+* Follow-up exam: $25*
+    * *Medical treatments, prescriptions and testing are additional.
+* Canine Neuter: $160-$185
+* Canine Spay: $180-$205
+* Feline Neuter/Spay: $90-$115
+* Rabies: $30
+* Distemper: $30
+* Lyme: $30
+* Bordetella: $25
+* Canine Influenza: $25
+* Leptospirosis: $25
+* Microchip: $15
+* Nail trim: $10
+* Heartworm test: $20
+* FIV/FeLV test: $35
+* Basic Deworming: $10
+* Flea and Tick Prevention Dog
+    * Seresto collar: $65
+    * Parastar plus: $20 per monthly topical dose, $42-45 for 3 doses
+* Flea and Tick Prevention Cats
+    * Easy spot: $20 per monthly topical dose, $44 for 3 doses
+    * Seresto collar: $65 
+
+# Dutton Road Veterinary Clinic and Surgical Facility
+A non-profit, full service veterinary clinic and surgical facility offering affordable vaccines, spays and neuters, general and specialty surgeries, including dental surgery.
+## Location
+10901 Dutton Road (Rear Entrance) Philadelphia, PA 19154
+## Hours
+* Monday and Tuesday: 9AM-7:30PM
+* Wednesday-Friday: 9AM-5PM
+* Saturday: 10AM-3PM
+## Contact
+### Phone: 215-331-2968
+### Website: [http://duttonroadvetclinic.com/shop/g_getarticle.asp?id=278](http://duttonroadvetclinic.com/shop/g_getarticle.asp?id=278)
+### Email: [clinic@ngap.org](mailto:clinic@ngap.org)
+## Services and Fees:
+* Call for fees
+* Wellness Exams and Preventative Care (vaccinations, blood work, urinalysis, fecal screening)
+* Surgery (spay/neuter, cat de-claw, mass removal, abdominal exploratory, vulvar tuck, spleen removal, wound repair (minor and major), amputations)
+* Specializing in pet dentistry
+* Digital Radiographs, Digital Dental Radiographs, Ultrasound, CO2 Laser, Therapeutic Lasers
+* Euthanasia and cremation 
