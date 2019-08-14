@@ -1,12 +1,12 @@
 site_name: Catadelphia
 nav:
-    - Home: index.md
-    - Getting Started: start.md
+    - Getting Started: index.md
     - Shelters & Clinics: shelters.md
     - Vets: vets.md
     - Trapping: trapping.md
     - Fostering: fostering.md
     - Adoptions: adopt.md
-    - Medical Issues: medical.md
+    - Issues: issues.md
+    - Programs: programs.md
 plugins:
     - search

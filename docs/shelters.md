@@ -129,37 +129,437 @@ A non-profit, full service veterinary clinic and surgical facility offering affo
 * Euthanasia and cremation 
 
 ## Emancipet
+A non-profit organization offering affordable high-quality spay/neuter and preventative veterinary care through a national network of high-quality, low-cost clinics. Spay/Neuter surgeries require appointments. Preventative care is offered on a walk-in basis.
+### Location
+575 Adams Ave, Philadelphia PA 19120
+### Contact
+#### Phone: 267-774-490
+#### Fax: 215-618-2227
+#### Website: [https://emancipet.org/philadelphia/](https://emancipet.org/philadelphia/)
+#### Email: [GENERAL@EMANCIPET.ORG](maito:GENERAL@EMANCIPET.ORG)
+### Hours
+#### Preventative care: 
+10AM- 6PM Tuesday, Thursday and Saturday
+#### Spay and Neuter:
+* By appointment    
+* To request an appointment online (preferred):
+[https://emancipet.org/philadelphia/request-an-appointment/](https://emancipet.org/philadelphia/request-an-appointment/
+)   
+* Or call 267-774-4901
+### Costs:
+* Office visits: $5
+* Spay/Neuter: $69
+* Vaccinations: $15 per vaccine
+    * Rabies
+    * DHPP
+    * Leptospirosis
+    * Bordetella
+    * FVRCP
+    * FeLV
+* Tests:
+    * FeLV/FIV: $20
+    * Heartworm Test: $20
+* Identification
+    * Microchip: $20
+    * Custom ID Tag: $3
+* Dog Flea, Tick and Heartworm Prevention
+    * Topical flea and tick: $14 per monthly dose
+    * Chewable flea: $14 per monthly dose
+    * Oral chew flea and tick: $45 per 3-month dose
+    * Oral chew flea and tick: $7 per monthly dose
+* Cat Flea, Tick and Heartworm Prevention
+    * Flea and Heartworm Prevention: $14 per dose
+    * Topical flea control: $14 per dose
+* Heartworm Prevention:
+    * $7-9 per monthly dose, depending on size
+* Additional Services:
+    * Dewormer: $10
+    * Toe Nail Trim: $10
+    * Anal Gland Expression: $10
+
 ## PAWS Spay/Neuter and Wellness Clinic
+Low cost spay/neuter and basic veterinary care for owners who cannot afford care else where, as well as for rescues and feral cat trappers.
+
+Non-emergency appointments only
+
+### Location
+2900 Grays Ferry Avenue, Philadelphia, PA 19146
+### Contact
+#### Phone: 215-298-9680 ext. 0
+#### Email: gfclinic@phillypaws.org
+#### Website: [https://phillypaws.org/clinic-services/](https://phillypaws.org/clinic-services/)
+### Hours:
+#### Clinic Appointments:
+* Available 7 days per week by appointment
+#### Walk-In Vaccinations: 
+* Every Friday, Saturday and Sunday: 10AM-4PM
+#### Spay/Neuter:
+* Monday-Saturday by appointment
+### Costs and Services:
+* Spay/Neuter- includes rabies and distemper vaccinations if needed.
+    * Cats: $60
+    * Dogs under 40 lbs: $100
+    Dogs 40-90 lbs: $135
+    Dogs over 90 lbs: $185
+* Wellness Clinic Appointment:
+    * $25 plus costs of any tests/medications
+* Walk-In Clinic
+* Rabies and distemper: $25
+* Other vaccinations as needed: $12-25
+* Nail trimming: $10
+* Microchipping: $20
+* Combo test: $25
+* De-worming: $5-14
+* Flea treatment: $14-16 
+					
 ## PAWS Northeast Adoption Center and Low-Cost Clinic
+Low cost spay/neuter and BASIC veterinary care for owners who cannot afford care elsewhere.
+
+Non-emergency appointments only
+
+### Location
+1810 Grant Ave. (at Bustleton), Philadelphia, PA 19115
+### Contact:
+#### Phone: 215-545-9600:
+#### Email: neclinic@phillypaws.org
+#### Website: https://phillypaws.org/locations/paws-northeast-adoption-center-low-cost-clinic/
+### Hours:
+#### Clinic Appointments
+Available by appointment
+#### Spay/Neuter: 
+Available Tuesday-Saturday by appointment
+#### Walk-In Vaccinations
+Friday and Saturday 10AM- 4PM
+### Costs and Services:
+* Spay/Neuter- includes rabies and distemper vaccinations if needed.
+    * Cats: $60
+    * Dogs under 40 lbs: $100
+    Dogs 40-90 lbs: $135
+    Dogs over 90 lbs: $185
+* Wellness Clinic Appointment:
+    * $25 plus costs of any tests/medications
+* Walk-In Clinic
+* Rabies and distemper: $25
+* Other vaccinations as needed: $12-25
+* Nail trimming: $10
+* Microchipping: $20
+* Combo test: $25
+* De-worming: $5-14
+* Flea treatment: $14-16 
+				
 
 ## Morris Animal Refuge
-## Spayed Club Clinic
-484-540-8436
-info@thespayedclub.org
+### Location
+1242 Lombard Street Philadelphia, Pennsylvania, 19147 USA
+### Contact
+#### Website: [https://www.morrisanimalrefuge.org](https://www.morrisanimalrefuge.org)
+#### Phone: (215) 735-9570
+### Hours:
+Monday, Tuesday, Saturday, Sunday    
+11am - 4pm
 
+Wednesday & Friday    
+11am - 7pm
+
+Thursday    
+Closed
+
+ 
 # Shelters & Clinics Outside of Philadephia
 ## Pennsylvania
+
 ### Forgotten Cats
-Trainer and Willow Grove, PA
-Clinic Schedule
-### The Spayed Club
+#### Contact
+Website: [http://www.forgottencats.org/clinic.php](http://www.forgottencats.org/clinic.php)    
+#### Location
+Trainer and Willow Grove, PA    
+#### Schedule
+[Clinic Schedule](http://www.forgottencats.org/schedule.php)
+
+### Spayed Club Clinic
+A non-profit organization offering low cost spay/neuter and primary care services, including wellness visits, vaccinations, blood tests and treatment for common problems such as skin, eye and ear issues and minor injuries. 
+#### Location
+800 Chester Pike Sharon Hill, PA 19079
+#### Contact
+**Phone:** 484-540-8436       
+**Email:** [info@thespayedclub.org](mailto:info@thespayedclub.org)         
+**Website:**[https://www.thespayedclubclinic.org/](https://www.thespayedclubclinic.org/)         
+#### Hours
+**Spay/Neuter:**
+
+* Monday-Friday by appointment
+* Schedule online: [https://clinichq.com/online/c4257845-450c-4ea5-a4bb-96606f0c0b12](https://clinichq.com/online/c4257845-450c-4ea5-a4bb-96606f0c0b12)
+
+**Primary Care Clinic: By appointment, need to be made by phone**
+
+* Monday: 11am-7pm
+* Tuesday: 3pm-7pm
+* Thursday: 8am-5pm
+
+**Walk In Wellness Clinic:**
+3rd Sunday Every Month; March- November: 9AM-1PM
+#### Prices
+* Exam Fee: $30
+* Spay & Neuter
+    * Cats $70
+    * Dogs under 40 lbs.: $110
+    * Dogs 40 - 79 lbs.: $145
+    * Dogs 80 lbs. and over: $185
+    * Price includes the surgery, pain medication and a pre-operative exam, plus rabies and distemper vaccines.
+* Add-On Services At Time of Spay/Neuter
+    * Cats
+        * Rabies - Includes
+        * Feline Distemper - included
+        * Feline leukemia vaccine - $20
+        * FeLV/FIV test - $25
+        * Flea treatment (single) - $15
+        * Flea treatment (3 month supply) - varies based on weight
+        * General dewormer - $15
+        * Tapeworm treatment - $20
+        * Microchip - $30
+        * Fecal test - $25
+        * Nail trim - $5
+        * Cardboard carrier - $5
+        * Bitter orange - $4/8
+        * E-collar - $15
+    * Dogs
+        * Rabies - Includes
+        * Canine distemper/parvo - included
+        * Kennel cough vaccine - $20
+        * Lyme vaccine - $25
+        * Heartworm test - $25
+        * HW Prevention (6 month supply) - based on weight	
+        * Flea treatment (single) - $17
+        * Flea treatment (3 month supply) - varies based on weight
+        * Microchip - $30
+        * General dewormer - $17
+        * Tapeworm treatment - $20
+        * Fecal test - $25
+        * Nail trim - $5
+        * Bitter orange - $4/8
+        * E-collar - $15		
+
 ### Providence Animal Center
+Offers low cost veterinary care to all dog and cat owners. Services include spay/neuter, wellness checks, general preventative care, soft tissue surgery and dentals.
+
+Not an emergency facility and not offering euthanasia services.
+
+#### Location
+555 Sandy Bank Road, Media, PA 19063
+#### Hours
+**Clinic Hours: Requires appointment**
+
+* Monday: 12-6:15PM
+* Tuesday: 10AM-2:45PM
+* Wednesday: 12PM-6:15PM
+* Thursday: 9:30AM-5:45PM
+* Friday: 9:30AM-4:45PM
+#### Contact
+* To schedule a spay/neuter surgery:
+* Use Online Portal:
+[http://www.providenceac.org/use-our-services/vet-services/](http://www.providenceac.org/use-our-services/vet-services/
+)
+* To schedule all other services (wellness clinic, dental appointments, soft tissue surgeries)
+* **Phone**:  610-566-1370 x3    
+* **Email**: [vetservices@providenceac.org](mailto:vetservices@providenceac.org)   
+#### Costs:
+* Spay/Neuter:
+    * Cats: $50
+        * Alley Cat special: $100 (includes wellness exam, spay/neuter, rabies and feline distemper vaccines, dewormer and a FIV/FeLV combo test)
+        * Cat Spay Days:
+            * $15 cat spays and neuters on event days
+            * See Events Calendar for next event http://www.providenceac.org/our-events/
+    * Dogs under 40 lbs: $90
+    * Dogs 40-79 lbs: $110
+    * Dogs over 80 lbs: $150
+        * Fix-A-Bull Program:
+            * Offers $15 spay/neuter to low income owners of Pit Bulls and Pit Bull Mixes in Delaware County and surrounding areas
+            * To see if you qualify for this program, please call 610-566-1370 x3.
+    * Cat Spay Days:
+        * $15 cat spays and neuters on event days
+        * See Events Calendar for next event http://www.providenceac.org/our-events/
+* Wellness Clinic Pricing
+    * Wellness Exam: $40
+    * Core vaccines: $15
+    * 3-year Rabies and DHPP/FVRCP: $20
+    * Lyme vaccine: $20
+    * Canine Influenza vaccine: $20
+    * Heartworm test: $25
+    * Lyme/Heartworm combo test: $35
+    * Heartworm preventative: Price varies by pet’s weight
+    * Flea/tick preventative: Price varies by pet’s weight
+    * Deworming: $10
+    * Fecal test: $2
+    * FIV/FeLV test: $35
+    * Microchip (lifetime registration included): $35
+    * Bloodwork panels: $50-100
+* Dental Surgery:
+    * Starting at $200
+    * Soft tissue surgery, Other Life Saving Surgery
+    * Contact 610-566-1370 x3 
+
 ### The Bridge Clinic
-### Women’s Humane Society
+A community minded organization offering a wellness clinic and low cost spay/neuter surgeries. A not for profit institution connected to a no-kill shelter, Rescue Purrfect.
+
+#### Location
+2820 Old Lincoln Highway, Suite 1A Trevose, PA 18966
+#### Contact
+Phone:
+Email:
+#### Hours:
+**Clinic/Rescue Office Hours:**
+
+* Mon 10-2 and 7-9;
+* Tues 10-6;
+* Weds 10-4 and 7-9;
+* Thurs 10-7;
+* Fri 10-2;
+* Sat and Sun 10-2
+#### Wellness Clinic:
+* Thursday afternoon/evening - by appointment only
+#### Spay/Neuter Clinic:
+* Monday by appointment
+* (Drop off 8:30-9 AM; Pick up 4:30-5PM)
+#### Monthly low cost rabies and microchip events
+### Fees and Services:
+* Feral cat Spay/Neuter: $50
+* Feline Spay/Neuter: $75
+* Bensalem Resident Feline Spay/Neuter: $69
+* Canine Spay/Neuter: Starting at $145
+* Microchip: $16
+* Nail Trimming: Cat $12; Dog $18
+* Ear Cleaning: $15
+* FeLV/FIV test: $35
+* Wellness/Sick appointment new patient: $45
+* Wellness/Sick appointment existing patient: $30
+* Vaccinations: *given in conjunction with wellness exam appointment
+    * FVRCP: $20
+    * DA2PP: $30
+    * Rabies: $15 
+					
+### Women’s Humane Society:
+A non-profit, open-admission animal shelter, as well as, an AAHA accredited veterinary hospital offering affordable veterinary care, physical rehabilitation, and surgery. Surgeries offered include spay/neuter, emergency pyometra spays and dystocias, hernia repair, dew claw removal, mass removal, dental cleaning and surgery, ophthalmic and optic surgery, cystotomy, gastrointestinal surgery, amputations and rabbit neuters. Dog training classes are also available.
+#### Location: 3839 Richlieu Road, Bensalem, PA 19020 
+#### Contact:
+**Phone:**
+
+* General: 215.750.3100
+* Hospital 215.750.5252
+
+**Email:** [helpline@womenshumanesociety.org](mailto:helpline@womenshumanesociety.org)      
+**Website:**  [https://www.womenshumanesociety.org](https://www.womenshumanesociety.org)      
+#### Hours
+* Monday 8:00 AM - 4:00 PM
+* Tuesday 8:00 AM - 8:00 PM
+* Wednesday 8:00 AM - 8:00 PM
+* Thursday 8:00 AM - 8:00 PM
+* Friday 8:00 - 1:30 PM
+* Saturday 7:30 AM - 3:30 PM
+* Sunday CLOSED
+#### Cost
+* Shelter:
+    * Surrender Donation Fee: $50
+    * Animal Transportation Service: For pet owners who wish to surrender but do not have transportation: 
+    * Contact 215-750-3100 for fee and information
+* Caroline Earle White Veterinary Hospital
+    * Wellness Visit/Exam Fee - $45
+    * Canine Distemper + Lepto - $26
+    * Rabies Vaccine* - $25
+    * Heartworm Blood Test* - $35
+    * Feline Leukemia/FIV Test - $45
+    * Feline Leukemia Vaccine - $33
+    * Canine Influenza (Dual Strain) Vaccine - $46
+    *  Bordetella Vaccine Intra-nasal* - $45
+    * Bordetella Vaccine Injection* - $33
+    * Feline Distemper Vaccine - $25
+    * Microchip - $40
+    * *Price includes a medical waste disposal fee. Women’s Animal Center disposes of our medical waste in a manner that protects both people and our environment. 
+* Surgery
+    * Requires a consultation examination ($45) and an update to date rabies vaccine ($23) to schedule.
+    * Aesculight Surgical Laser may be requested for an additional $75
+    * Costs of surgery depends on the type of surgery, size and gender of pet. Contact 215.750.5252 for more information. 
 
 ## New Jersey
 ### Animal Welfare Association of New Jersey
+A private, non-profit animal welfare organization offering a low cost spay/neuter clinic, wellness clinic, adoption center, and animal shelter. Full- veterinary services such as X-rays, extensive surgery offerings, and emergency services are NOT provided. Senior and military discounts provided.
+#### Hours
+**Pet Clinic Hours (to make appointments):**
+
+* Monday- Friday: 9AM-5PM
+
+#### Location
+509 Centenial Blvd, Voorhees NJ 08043
+#### Contact
+**Phone:** 856-424-2288    
+**Website:** [https://www.awanj.org](https://www.awanj.org)    
+**Email:** [clinic@awanj.org](clinic@awanj.org)    
+
+#### Services and Fees:
+* Wellness Exam Fee: $35
+    * By appointment only Tuesday-Thursday
+    * Certain vaccines are only offered during pet wellness days
+    * Feline Leukemia: $25
+* Vaccine Clinic:
+    * Offered on a walk-in basis every Monday from 10AM-2PM, select Wednesdays from 4PM-7PM, and select Saturdays from 8AM- 11:30AM. Please see website for up to date schedule.
+    * Vaccines
+        * Rabies: $15
+        * Feline Pure-Vax Rabies Vaccine: $30
+        * Bordetella: $16
+        * FVRCP: $16
+        * DAPP: $16
+        * Canine Influenza: $20
+        * Lyme: $30
+            * Requires blood test
+        * Leptospirosis: $18
+* Testing:
+    * FeLV/FIV Combo Test: $35
+    * Dog Heartworm: $30
+    * Dog Heartworm Combo Test: $38
+    * Fecal Test- Antech: $30
+    * Accuplex Test: $45
+* Spay/Neuter: 
+    * Animals must be under 99 lbs and cannot be English, French or Old English Bulldog breeds* 
+    * Additional charges will apply for non-routine surgeries or services. All pets 7 years of age and older require in-house bloodwork prior to surgery, for which there is an additional fee.
+    * Dogs
+        * Females: $120-180- depending on weight
+        * Males: $110-170- depending on weight
+    * Cats:
+        * Female: $95
+        * Males: $70
+    * Reduced Cost Programs:
+        * Feral Fix-It Program: Spay/neuter, ear tip and rabies vaccination for $35. Cats must come in a trap.
+        * Fix-It Cat Program: For Low income cat owners (must show proof such as Medicaid, Unemployment, Welfare, SSI or tax returns showing income under $23,500): $55 (includes spay/neuter surgery, rabies and distemper vaccines)
+        * Camden Program: For owned pets with proof of Camden residence: $25 spay/neuter
+        * SniPit Program: For pit bulls only- $55 spay/neuter
+        * Fix Your Mommy (Cats Only)- $50 surrender fee plus $40 spay fee. Entire litter of kittens must be accepted for intake and surrendered to the shelter. Spay fee for mother cat.
+* Specialty Surgeries:
+    * Offered on Monday, Wednesday and Friday by appointment only.
+    * Include cystotomy, mass removal, pyometra, amputations, entropion, enucleation, and cherry eye repair. 
+    * Call 856-424-2288 (option 1) or email clinic@awanj.org to schedule a consultation and for price estimates.
+* Euthanasia/Cremation:
+    * Tuesday-Thursday at 10AM, 11AM and 1PM, by appointment only.
+    * Euthanasia only: $50
+    * Disposal of body only: $25-$70 *depending on size
+    * Communal Cremation: $75-$125 *depending on size
+    * Private Cremation: $120-280 *depending on size
+* Other Services:
+    * Nail Trim: $10
+    * Microchip: $25
+    * Anal Sac Expression: $15, only done with veterinarian exam
+    * Ear Cleaning: $15, only done with veterinarian exam
+    * Puppy/Kitten Deworming (dose): $5 
+
 
 # Philadelphia Rescues
-## PAWS
-## Lucky You Animal Rescue
-## Green Street Rescue
+## [PAWS](https://phillypaws.org/)
+## [Lucky You Animal Rescue](http://www.luckyyouanimalrescue.org/)
+## [Green Street Rescue](https://www.greenstreetrescue.org/)
 
 # Rescues Outside of Philadelphia
 The Pet Adoption and Lifecare Society
 
 # Philadelphia Organizations
-## Philadelphia Community Cats Council
+## [Philadelphia Community Cats Council](http://www.phillycats.org/)
 
 # Organizations Outside of Philadelphia
 Community Kitties Outside the City

@@ -48,6 +48,22 @@ Some of these worms can be transmitted to humans, so handle your cat and their s
 ## Lungworm
 ## Underweight
 
+# Behavioral Issues
+## Going outside box
+* There can be a variety of reason why a cat won’t use their litterbox.
+* First, rule out medical issues such as UTI with your vet.
+* Make sure you have enough litter boxes for how many cats you have.
+* Make sure your box is big enough - some cats do not like a small box, or a covered box. 
+* Make sure you are cleaning your boxes daily. 
+* If you are using a scented litter, try an unscented litter. 
+* Try a litter with an attractant like Dr Elsey’s Cat Attract. 
+## Not getting along
+* If this was a recent introduction, separate the cats and start over slowly.
+* If the cats were previously getting along, take them to the vet to rule out a medical cause like pain or illness. 
+*  Make sure each cat has their own space to be alone - their own bed, enough space to feel like they’re not on top of one another. 
+
+## Spraying/Marking
+## Scratching
 
 
 
