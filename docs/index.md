@@ -5,9 +5,14 @@ This guide is constantly evolving and updating.
 This guide includes material from the [Philadelphia Area Community Resources for Pet Owners Handbook 2017-2018](files/Community-Resources-for-Pet-Owners.pdf), compiled by ACCT. Please follow all linked resources for the most up-to-date information. 
 
 # CATADELPHIA
-## Empowering the community to care for cats.    
-Don’t forget to like our Facebook page, [www.facebook.com/catadelphia](www.facebook.com/catadelphia)     
-Never miss out by getting on our email list at [https://www.catadelphia.org](https://www.catadelphia.org    )
+## Empowering the community to care for cats.   
+Follow us on: 
+
+[Facebook](www.facebook.com/catadelphia)    
+[Twitter](https://twitter.com/Catadelphia)    
+[Instagram](https://www.instagram.com/catadelphia/)  
+
+Never miss out by getting on our email list at [https://www.catadelphia.org](https://www.catadelphia.org)
 
 # SUPPORT OUR WORK
 ## Donate

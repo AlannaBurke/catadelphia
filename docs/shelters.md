@@ -556,15 +556,18 @@ A private, non-profit animal welfare organization offering a low cost spay/neute
 ## [Green Street Rescue](https://www.greenstreetrescue.org/)
 
 # Rescues Outside of Philadelphia
-The Pet Adoption and Lifecare Society
+## Pennsylvania
+[The Pet Adoption and Lifecare Society](https://www.adoptapet.com/pals/)
 
 # Philadelphia Organizations
 ## [Philadelphia Community Cats Council](http://www.phillycats.org/)
 
 # Organizations Outside of Philadelphia
-Community Kitties Outside the City
-Lower Bucks County Community Kitties
-Trap–Neuter–Return Community (national)
+[Community Kitties Outside the City](https://www.facebook.com/groups/phlsuburbscats/)
+
+[Lower Bucks County Community Kitties](https://www.facebook.com/groups/794636537591059/)
+
+[Trap–Neuter–Return Community (national)](https://www.facebook.com/groups/1479283405672836/)
 
 
 
