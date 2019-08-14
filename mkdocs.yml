@@ -2,6 +2,11 @@ site_name: Catadelphia
 nav:
     - Home: index.md
     - Getting Started: start.md
-    - Philadelphia Shelters & Clinics: shelters-philly.md
-    - Philadelphia Vets: vets-philly.md
-
+    - Shelters & Clinics: shelters.md
+    - Vets: vets.md
+    - Trapping: trapping.md
+    - Fostering: fostering.md
+    - Adoptions: adopt.md
+    - Medical Issues: medical.md
+plugins:
+    - search

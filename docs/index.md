@@ -1,4 +1,8 @@
-This guide is intended to help community rescuers find resources. It is not a substitute for professional medical advice. This guide is constantly evolving and updating. This guide includes material from the Philadelphia Area Community Resources for Pet Owners Handbook 2017-2018, compiled by ACCT. Please follow linked resources for the most up-to-date information. 
+This guide is intended to help community rescuers find resources. It is not a substitute for professional medical advice. 
+
+This guide is constantly evolving and updating. 
+
+This guide includes material from the [Philadelphia Area Community Resources for Pet Owners Handbook 2017-2018](files/Community-Resources-for-Pet-Owners.pdf), compiled by ACCT. Please follow all linked resources for the most up-to-date information. 
 
 # CATADELPHIA
 ## Empowering the community to care for cats.    
