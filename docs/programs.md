@@ -223,6 +223,16 @@ A non-profit organization that provides financial assistance to owners of domest
 * Copy of a written cost estimate for the needed procedures and/or treatment from your veterinarian.
 * Name, address, and medical license number for your treating veterinarian.
 				
-			
-			 		
+
+# Brandywine Valley SPCA Programs		
+## Henry's Cupboard
+At the Brandywine Valley SPCA, we understand that sometimes pets are surrendered into shelters not because of the lack of a loving home, but because that home has fallen under hardship. To help ease this circumstance, we offer Safety Net programs to lessen the number of pets unnecessarily surrendered to our shelter. 
+[Application Link](https://bvspca.org/wp-content/uploads/2018/10/HENRYS-CUPBOARD-APPLICATION-online-Capture.pdf)
+
+## Domestic Violence
+ If you or someone you know is a victim of domestic violence, pets no longer have to be a factor when making the choice to leave an abusive situation for residents of Delaware. The Brandywine Valley SPCA has teamed up with CHILD, Inc. and People’s Place, two Delaware domestic violence shelters, to provide victims of abuse free housing and care for their pets, as they transition to safety. Please contact the shelters directly on their hotline numbers regarding services:
+
+* CHILD, Inc. Bilingual (Spanish/English) 302-762-6110
+* People’s Place – English- 302-422-8058
+* People’s Place – Spanish- 302-745-9874
 

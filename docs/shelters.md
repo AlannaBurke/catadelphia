@@ -1,6 +1,9 @@
 # Philadelphia Shelters & Clinics
 ## Philadelphia Animal Care and Control Team (ACCT Philly)			
 ACCT Philly is the region’s largest open admission animal care and control service provider, serving the City of Philadelphia by contract, taking in nearly 20,000 animals a year.
+<details>
+ <summary>Learn More</summary>
+ 
 ### Location
 111 West Hunting Park Avenue Philadelphia, PA 19140
 ### Contact
@@ -57,10 +60,14 @@ In the office Monday, Wednesday, Friday from 8-5 and Tuesday & Thursday from 8-4
 267-385-3800 x 103 or x 222    
 Voicemail and email are checked regularly during office hours.  
 See Flyer for details [PDF Link](/files/CCP-FAQ-FULL-PDF.pdf)   
+</details>
 
 ## PSPCA
-Offers comprehensive primary care (wellness exams, preventative medicine, vaccines, spay/neuter surgery, digital x-rays, in-house blood work, end of life care)
-Does not offer emergency or after hours care
+Offers comprehensive primary care (wellness exams, preventative medicine, vaccines, spay/neuter surgery, digital x-rays, in-house blood work, end of life care).    
+Does not offer emergency or after hours care.    
+<details>
+ <summary>Learn More</summary>
+
 ### Location
 350 E. Erie Ave., Philadelphia, PA 19134 (Headquarters)
 ### Contact
@@ -107,9 +114,13 @@ Closed major holidays.
 * Flea and Tick Prevention Cats
     * Easy spot: $20 per monthly topical dose, $44 for 3 doses
     * Seresto collar: $65 
+</details>
 
 ## Dutton Road Veterinary Clinic and Surgical Facility
 A non-profit, full service veterinary clinic and surgical facility offering affordable vaccines, spays and neuters, general and specialty surgeries, including dental surgery.
+<details>
+ <summary>Learn More</summary>
+
 ### Location
 10901 Dutton Road (Rear Entrance) Philadelphia, PA 19154
 ### Hours
@@ -127,9 +138,13 @@ A non-profit, full service veterinary clinic and surgical facility offering affo
 * Specializing in pet dentistry
 * Digital Radiographs, Digital Dental Radiographs, Ultrasound, CO2 Laser, Therapeutic Lasers
 * Euthanasia and cremation 
+</details>
 
 ## Emancipet
 A non-profit organization offering affordable high-quality spay/neuter and preventative veterinary care through a national network of high-quality, low-cost clinics. Spay/Neuter surgeries require appointments. Preventative care is offered on a walk-in basis.
+<details>
+ <summary>Learn More</summary>
+
 ### Location
 575 Adams Ave, Philadelphia PA 19120
 ### Contact
@@ -176,11 +191,15 @@ A non-profit organization offering affordable high-quality spay/neuter and preve
     * Dewormer: $10
     * Toe Nail Trim: $10
     * Anal Gland Expression: $10
+</details>
 
 ## PAWS Spay/Neuter and Wellness Clinic
 Low cost spay/neuter and basic veterinary care for owners who cannot afford care else where, as well as for rescues and feral cat trappers.
 
-Non-emergency appointments only
+Non-emergency appointments only.
+
+<details>
+ <summary>Learn More</summary>
 
 ### Location
 2900 Grays Ferry Avenue, Philadelphia, PA 19146
@@ -211,11 +230,15 @@ Non-emergency appointments only
 * Combo test: $25
 * De-worming: $5-14
 * Flea treatment: $14-16 
+</details>
 					
 ## PAWS Northeast Adoption Center and Low-Cost Clinic
 Low cost spay/neuter and BASIC veterinary care for owners who cannot afford care elsewhere.
 
-Non-emergency appointments only
+Non-emergency appointments only.
+
+<details>
+ <summary>Learn More</summary>
 
 ### Location
 1810 Grant Ave. (at Bustleton), Philadelphia, PA 19115
@@ -246,9 +269,15 @@ Friday and Saturday 10AM- 4PM
 * Combo test: $25
 * De-worming: $5-14
 * Flea treatment: $14-16 
-				
+
+</details>
+ 
 
 ## Morris Animal Refuge
+
+<details>
+ <summary>Learn More</summary>
+
 ### Location
 1242 Lombard Street Philadelphia, Pennsylvania, 19147 USA
 ### Contact
@@ -264,20 +293,70 @@ Wednesday & Friday
 Thursday    
 Closed
 
+</details>
+
  
 # Shelters & Clinics Outside of Philadephia
 ## Pennsylvania
 
 ### Forgotten Cats
+
+<details>
+ <summary>Learn More</summary>
+
 #### Contact
-Website: [http://www.forgottencats.org/clinic.php](http://www.forgottencats.org/clinic.php)    
+**Website:** [http://www.forgottencats.org/clinic.php](http://www.forgottencats.org/clinic.php)    
 #### Location
 Trainer and Willow Grove, PA    
 #### Schedule
 [Clinic Schedule](http://www.forgottencats.org/schedule.php)
 
+</details>
+
+### Brandywine Valley SPCA
+
+<details>
+ <summary>Learn More</summary>
+
+#### Contact
+**Website:** [https://bvspca.org](https://bvspca.org)
+#### Location
+**Shelter:**
+
+* 1212 Phoenixville Pike West Chester, PA 19380
+* **Phone:** (484) 302-0865
+* **Fax:** (610) 436-4630
+
+**Animal Health Center:**
+
+* 9 Coffman Street Malvern, PA 19355
+* **Phone:** (610) 482-4289
+* **Fax:** (610) 296-2820
+
+#### Community Cats
+* Includes spay/neuter surgery, ear tip, rabies & FVRCP vaccinations
+* Contact our Animal Health Center for current pricing, which varies based on available grant funding.
+* To schedule, call:
+    * Malvern: (610) 482-4289
+    * New Castle: (302) 516-1004
+    * Georgetown: (302) 516-1004
+* Drop off (by appointment only): PA 9:00 a.m. – 9:30 a.m. DE 8:30 a.m. – 9:00 a.m.
+* Pick up: 4 p.m. – 5 p.m.
+* Cats need to be in humane live release traps. In most cases, community cats are released the same day as their surgery.
+* **Trap Rentals**
+    * 1212 Phoenixville Pike, West Chester, PA 19380, (484) 302-0018
+    * 600 South Street, New Castle, DE 19720, (302) 516-1008
+    * 22918 Dupont Boulevard, Georgetown, DE 19947, (302) 856-6361
+* Rental Period: 1-14 days (maximum)
+
+</details>
+
 ### Spayed Club Clinic
 A non-profit organization offering low cost spay/neuter and primary care services, including wellness visits, vaccinations, blood tests and treatment for common problems such as skin, eye and ear issues and minor injuries. 
+
+<details>
+ <summary>Learn More</summary>
+
 #### Location
 800 Chester Pike Sharon Hill, PA 19079
 #### Contact
@@ -339,10 +418,15 @@ A non-profit organization offering low cost spay/neuter and primary care service
         * Bitter orange - $4/8
         * E-collar - $15		
 
+    </details>
+
 ### Providence Animal Center
 Offers low cost veterinary care to all dog and cat owners. Services include spay/neuter, wellness checks, general preventative care, soft tissue surgery and dentals.
 
 Not an emergency facility and not offering euthanasia services.
+
+<details>
+ <summary>Learn More</summary>
 
 #### Location
 555 Sandy Bank Road, Media, PA 19063
@@ -398,8 +482,13 @@ Not an emergency facility and not offering euthanasia services.
     * Soft tissue surgery, Other Life Saving Surgery
     * Contact 610-566-1370 x3 
 
+    </details>
+
 ### The Bridge Clinic
 A community minded organization offering a wellness clinic and low cost spay/neuter surgeries. A not for profit institution connected to a no-kill shelter, Rescue Purrfect.
+
+<details>
+ <summary>Learn More</summary>
 
 #### Location
 2820 Old Lincoln Highway, Suite 1A Trevose, PA 18966
@@ -436,9 +525,15 @@ Email:
     * FVRCP: $20
     * DA2PP: $30
     * Rabies: $15 
+
+</details>
 					
 ### Women’s Humane Society:
 A non-profit, open-admission animal shelter, as well as, an AAHA accredited veterinary hospital offering affordable veterinary care, physical rehabilitation, and surgery. Surgeries offered include spay/neuter, emergency pyometra spays and dystocias, hernia repair, dew claw removal, mass removal, dental cleaning and surgery, ophthalmic and optic surgery, cystotomy, gastrointestinal surgery, amputations and rabbit neuters. Dog training classes are also available.
+
+<details>
+ <summary>Learn More</summary>
+
 #### Location: 3839 Richlieu Road, Bensalem, PA 19020 
 #### Contact:
 **Phone:**
@@ -479,9 +574,161 @@ A non-profit, open-admission animal shelter, as well as, an AAHA accredited vete
     * Aesculight Surgical Laser may be requested for an additional $75
     * Costs of surgery depends on the type of surgery, size and gender of pet. Contact 215.750.5252 for more information. 
 
+</details>
+
 ## New Jersey
+### People For Animals
+
+<details>
+ <summary>Learn More</summary>
+
+#### Locations
+401 Hillside Ave, Hillside NJ 07205    
+**Phone:** (973) 282-0890    
+**Email:** hillside@pfaonline.org    
+**Fax:** (973) 282-0894    
+
+1 Sharon Road, Robbinsville NJ 08691    
+**Phone:** (609) 208-3252    
+**Email:** robbinsville@pfaonline.org    
+
+1200 North Delsea Drive, Clayton NJ 08312    
+**Phone:** (856) 243-5211    
+**Email:** clayton@pfaonline.org 
+
+Mobile Spay Station    
+**Phone:** (973) 454-1625    
+[Service Locations](https://www.google.com/maps/d/u/0/viewer?mid=1T7UmccymPZmcjuBogePwaff3JYM&ll=41.08939838492121%2C-74.4607273175613&z=10)
+
+[Schedule Spay & Neuter online](https://www.pfaonline.org/surgery/)
+
+#### Hours
+* Hillside
+    * Administrative Hours
+        * Mon-Thur	7:15am	6:00pm
+        * Friday	9:00am	4:00pm
+        * Saturday	9:00am	12:30pm
+    * Wellness Hours
+        * Monday    11:00am	2:00pm
+        * Tuesday	11:00am	2:00pm
+        * Wednesday	11:00am	2:00pm
+        * Wednesday	4:00pm	5:30pm
+        * Thursday	No Wellness	Hours
+        * Friday	9:00am	4:00pm
+        * Saturday	9:00am	12:30pm
+        * Sunday	Closed	Closed
+* Robbinsville
+    * Administrative Hours
+        * Tue-Fri	7:00am	5:00pm
+    * Wellness Hours
+        * Monday	11:00am	2:00pm
+        * Tuesday	11:00am	2:00pm
+        * Wednesday	11:00am	2:00pm
+        * Wednesday	4:00pm	5:30pm
+        * Thursday	No Wellness	Hours
+        * Friday	9:00am	4:00pm
+        * Saturday	9:00am	12:30pm
+        * Sunday	Closed	Closed
+* Clayton
+    * Administrative Hours
+        * Mon-Fri	10:00am	6:00pm
+    * Wellness Hours
+        * Monday	11:00am	2:00pm
+        * Tuesday	11:00am	2:00pm
+        * Wednesday	11:00am	2:00pm
+        * Wednesday	4:00pm	5:30pm
+        * Thursday	No Wellness	Hours
+        * Friday	9:00am	4:00pm
+        * Saturday	9:00am	12:30pm
+        * Sunday	Closed	Closed
+
+
+#### Spay Shuttle
+[https://www.pfaonline.org/spayshuttle/](https://www.pfaonline.org/spayshuttle/)
+
+The SPAY SHUTTLE is a service offered by People for Animals that provides round-trip transportation for cats and dogs for same-day spay/neuter surgery at one of our clinics. It is available to individuals, shelters, and rescues. The SPAY SHUTTLE is by appointment only. On the morning of your appointment, we meet you outside the pick-up location you select and transport your companion animal to our SPAY STATION. In the afternoon, after your companion animal’s surgery has been completed and he or she is fully recovered from anesthesia, the SPAY SHUTTLE brings him or her back to you at the same location.
+
+Cost: $5 per animal
+
+#### Services & Fees
+Includes taxes and fees
+
+* Spay/Neuter
+    * TNR Cat - call for price
+    * Pet Cat - $91.06
+    * Male Dog over 65lbs - $156.79
+    * Male Dog under 65 lbs - $136.79
+    * Female Dog over 65 lbs - $166.79
+    * Female Dog under 65 lbs - $146.79
+    * Includes pre-surgical exam, mandatory green tattoo, pain medication, medical waste fees, elizabethan collar
+* Other Surgical Fees
+    * Pregnancy (dog only)	+$10
+    * Umbilical Hernia	+$35
+    * Doberman Pinschers require a Buccal Mucosal Bleeding Time (BMBT) test	+$45
+    * Spay Shuttle Transport	+$5
+* Additional Services Available
+    * Activyl Application	$17.06 (cat)	$20.26 (dog)
+    * Microchip	$15
+    * Heartworm/Lyme/Ehrlichia/Anaplasma Test	$30
+    * Feline Leukemia/FIV Test	$30
+    * Nail Clipping	$12.80
+    * Revolution Application	$23.46
+    * Soft Paws	$15.99
+
+WELLNESS SERVICES
+
+People for Animals offers the following wellness services on a first-come, first-served basis (no appointments required):
+
+* Vaccinations
+* Routine Testing
+* Microchips
+* Deworming
+
+In addition, by appointment only, we provide compassionate euthanasia at certain locations for medically suffering animals. Please call for more information and to schedule an appointment.
+
+OUR ORGANIZATION MISSION IS TO REDUCE PET OVER-POPULATION THROUGH PREVENTION (SPAY/NEUTER). WE DO NOT SUPPORT BREEDING YOUR PETS. THEREFORE, PFA IMPOSES A $20.00 SURCHARGE (PER ANIMAL, PER VISIT) FOR PETS OVER 6 MONTHS OF AGE THAT ARE RE-PRODUCTIVELY INTACT. THIS SURCHARGE CAN BE CREDITED TOWARD SURGERY IF YOU SCHEDULE YOUR PET FOR SPAY/NEUTER AT THE TIME OF YOUR VISIT. WE ALSO IMPOSE A $20.00 BREEDER SURCHARGE FOR INTENTIONALLY BRED LITTERS OF PUPPIES OR KITTENS PRESENTING FOR WELLNESS SERVICES.
+
+* Vaccinations
+    * Rabies (Dogs/Cats)	$20
+    * FVRCP (Cat Distemper)	$20
+    * DAPP (Dog Distemper)	$20
+    * Bordetella/CPIV (Dogs only)	$20
+    * FeLV (leukemia) (Cats only)	$31
+    * CIV (influenza) (Dogs only)	$20
+    * Lyme (Dogs only)	$31
+    * Leptospirosis (Dogs only)	$20
+* Heartworm Preventative
+    * Triheart (Sm Dog -Blue)	$31.99
+    * Triheart (Med Dog -Green)	$42.65
+    * Triheart (Lg Dog – Brown)	$53.31
+    * DOGS OVER 6 MONTHS OF AGE MUST HAVE NEGATIVE HEARTWORM TEST PRIOR TO RECEIVING HEARTWORM PREVENTATIVES.
+* Tests and Extras
+    * 4DX Test (Dog only – Heartworm, Lyme, Anaplasmosis, Erlichiosis)	$30.00
+    * Felv/FIV Test (Cat only – leukemia/Aids)	$30.00
+    * Fecal Test (Dog/Cat)	$35.00
+    * Microchip (Dog/Cat)	$15.00
+    * Deworming (Puppy/Kitten)	$7.00
+    * Deworming (Dog/Cat – 6months+)	$7.00 per 20 lbs
+    * Tapeworm Injection  (Dog/ Cat)	$6.00 and up by weight
+* Flea/Tick Preventative
+    * Bravecto Single chewable (12 weeks of protection) (Dog only)	$59.71
+    * Activyl Single application  (Dog/Cat)	$17.06 (cat) $20.26 (dog)
+    * Revolution Single application (Cat only)	$23.46
+    * Revolution Box 6 month Supply (Cat only)	$134.35
+    * Activyl Box 6 month Supply (Cat)	$91.70
+    * Activyl Box 6 month supply (Toy Dog)	$103.43
+    * Activyl Box 6 month supply (Sm Dog)	$104.49
+    * Activyl Box 6 month supply (Med Dog)	$105.56
+    * Activyl Box 6 month supply (Lg Dog)	$106.63
+    * Activyl Box 6 month supply (XL Dog)	$107.69
+
+</details>
+
 ### Animal Welfare Association of New Jersey
 A private, non-profit animal welfare organization offering a low cost spay/neuter clinic, wellness clinic, adoption center, and animal shelter. Full- veterinary services such as X-rays, extensive surgery offerings, and emergency services are NOT provided. Senior and military discounts provided.
+<details>
+ <summary>Learn More</summary>
+
 #### Hours
 **Pet Clinic Hours (to make appointments):**
 
@@ -548,26 +795,145 @@ A private, non-profit animal welfare organization offering a low cost spay/neute
     * Anal Sac Expression: $15, only done with veterinarian exam
     * Ear Cleaning: $15, only done with veterinarian exam
     * Puppy/Kitten Deworming (dose): $5 
+    </details>
 
 
 # Philadelphia Rescues
-## [PAWS](https://phillypaws.org/)
-## [Lucky You Animal Rescue](http://www.luckyyouanimalrescue.org/)
-## [Green Street Rescue](https://www.greenstreetrescue.org/)
+[PAWS](https://phillypaws.org/)
+
+[Temple Cats](https://www.facebook.com/groups/templecats/)
+
+[Lucky You Animal Rescue](http://www.luckyyouanimalrescue.org/)
+
+[Green Street Rescue](https://www.greenstreetrescue.org/)
+
+[City Kitties](http://www.citykitties.org)
+
+[Project MEOW - West Philadelphia](https://projectmeow.org)
+
+[Alley Cat Animal Rescue](https://www.facebook.com/AlleyCatAnimalRescue/)
+
+[Brenda's Cat Rescue](https://www.brendascatrescue.org)
+
 
 # Rescues Outside of Philadelphia
 ## Pennsylvania
 [The Pet Adoption and Lifecare Society](https://www.adoptapet.com/pals/)
 
+[All 4 Paws Rescue - Chester Springs](https://www.all4pawsrescue.com/)
+
+[Wags Rescue and Referral - Bucks County](http://www.wagsrescue.org/)
+
+[Nobody's Cats - South Central PA](http://www.nobodyscats.org)
+
+[Absolutely Purrfect Cat Rescue - Lehigh, Northampton, and Berks Counties](http://www.absolutelypurrfectcatrescue.org)
+
+[Cat NAPS of Pottstown, Inc](http://www.catnapsofpottstown.org)
+
+[Noah's Ark Rescue Project and Sanctuary - Chester County](https://www.noahsarps.com)
+
+[Renaissance Cats Rescue Group - Brookhaven](https://www.adoptapet.com/renaissance-cats-rescue-group)
+
+[C.A.T.S. Bridge To Rescue, Inc. (Caring About The Strays) - Trevose](http://www.catsbridge.org)
+
+## New Jersey
+[Easel Animal Rescue League - Mercer County](https://www.easelnj.org)
+
+[Lucky Lives Cat Rescue - Monmouth County](http://www.luckylivescatrescue.com)
+
+[Cat Crew Rescue - Bergen County](https://www.facebook.com/catcrewrescue/)
+
+[New Beginnings Animal Rescue - East Brunswick](https://newbeginningsanimalrescuenj.org/)
+
+[Eleventh Hour Rescue - Morris County](https://www.ehrdogs.org/info/index)
+
+[Burlington County Animal Alliance Cats](https://www.bcaacats.com)
+
+[The Cat's Meow Rescue Group - Burlington](https://www.catsmeownj.org)
+
+[911 Dog and Cat Rescue - Morristown](http://www.911dogrescue.com)
+
+[Metro Cat Rescue - Jersey City](https://www.facebook.com/MetroCatRescue/)
+
+[K's Kitten Rescue - Brick](https://www.petfinder.com/member/us/nj/brick/ks-kitten-rescue-nj933/)
+
+[Chace at Life Rescue - Bergen County](http://chanceatlifecatrescue.com/)
+
+[Trenton Cats Rescue](http://www.trentoncats.org)
+
+[Purrfect Angels Cat Rescue, Inc - Gloucester County](https://www.purrfectangels.org)
+
+[Nose 2 Tail Cat Rescue - McDonald](https://www.nose2tailcatrescue.org/)
+
+[Calling All Cats - Toms River](https://www.petfinder.com/member/us/nj/toms-river/calling-all-cats-rescues-nj709/)
+
+[Karma Cat + Zen Dog Rescue Society - Milltown NJ](http://karmacatzendog.org/)
+
+[One by One NJ Cat Rescue - Central/South NJ](https://www.facebook.com/onebyonenj/)
+
+[Lynn's Animal Rescue - South NJ](http://www.lynnsanimalrescue.org/)
+
+[Saved Whiskers Rescue Organization, Inc](https://www.facebook.com/SavedWhiskersRescue/)
+
+
 # Philadelphia Organizations
-## [Philadelphia Community Cats Council](http://www.phillycats.org/)
+[Philadelphia Community Cats Council](http://www.phillycats.org/)
+
+[Philadoptables](https://philadoptables.org)
+
+[Philadelphhia No Kill Coalition](http://nokillphilly.org/)
+
+## Facebook Groups
+[PHL Community Cats](https://www.facebook.com/groups/384150641766549/)
+
+[Philly Cats (Homing and Rehoming)](https://www.facebook.com/groups/128859954402023/)
+
+[Save 🐾PHILLY🐾 Cats](https://www.facebook.com/groups/628946770914691/)
+
+[Philly Cat Rescuers](https://www.facebook.com/groups/phillycatrescuers/)
+
+[NW Philadelphia Cats - Strays, Ferals, Lost & Found, Fostering, TNR, etc.](https://www.facebook.com/groups/162981390919162/)
+
+[Catadelphia Barn/Working Cat Group](https://www.facebook.com/groups/351459658672596/)
+
 
 # Organizations Outside of Philadelphia
+
+## Pennsylvania
+
 [Community Kitties Outside the City](https://www.facebook.com/groups/phlsuburbscats/)
 
 [Lower Bucks County Community Kitties](https://www.facebook.com/groups/794636537591059/)
 
+[Animal Friends Furever - Warminster](https://www.affrescue.com/)
+
+## New Jersey
+
+### Facebook Groups
+[CAT & KITTEN Fostering Network of NJ](https://www.facebook.com/groups/kittyfoster/)
+
+## NJ & PA
+
+
+[Dogs & Cats In Philly & NJ that need Adopted or Rescued](https://www.facebook.com/groups/971136282981190/)
+
+## National
+
+[Best Friends](https://bestfriends.org)
+
+### Facebook Groups
+
 [Trap–Neuter–Return Community (national)](https://www.facebook.com/groups/1479283405672836/)
+
+[Best Friends Network Partners](https://www.facebook.com/groups/BestFriendsNetworkPartners/)
+
+[Feral Tail Tales](https://www.facebook.com/groups/1032343470116152/)
+
+[Trap–Neuter–Return Community (Community Cats United, Inc.)](https://www.facebook.com/groups/1479283405672836/)
+
+[Community Cats United FIV/FeLV & Other Special Needs](https://www.facebook.com/groups/366930630168680/)
+
+[☆ kitten and cat foster & rescue support forum ☆](https://www.facebook.com/groups/kittenfostersupportforum/)
 
 
 

@@ -20,8 +20,13 @@
 # Colony Management
 ## Have a Colony Manager
 ## Feeding
+* [Feeding Locations and Stations](https://www.alleycat.org/community-cat-care/feeding-locations-and-stations/)
 ## Water
 ## Making Shelters
+* [Providing Shelter](https://www.alleycat.org/community-cat-care/providing-shelter/)
+* [Straw—Not Hay—for Outdoor Cat Shelters](https://www.alleycat.org/community-cat-care/straw-not-hay-for-outdoor-cat-shelters/)
+## Bad Weather
+* [Summer Weather Tips](https://www.alleycat.org/community-cat-care/summer-weather-tips/)
 ## When a Colony Member Passes
 Call ACCT to pick up, or take to PAWS for a small fee. You can also call 311 but they may take several days.
 

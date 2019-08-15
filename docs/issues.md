@@ -2,6 +2,8 @@
 ## Parasites
 ### Fleas
 ### Ear Mites
+### Heartworm
+* [Heartworm in Cats](https://www.catbehaviorassociates.com/heartworm-in-cats/)
 ### Worms
 Bloody or mucousy stool or diarrhea may be an indication of worms. Assume that any cat brought inside has tapeworms, as they’re contracted by flea eggs, and will need to be treated. 
 Other symptoms of worms include:
@@ -41,12 +43,17 @@ Some of these worms can be transmitted to humans, so handle your cat and their s
 * Try brushing your cat to help remove excess fur. A brush that helps remove undercoat like a Furminator may help. 
 * Over-the-counter hairball treatment may help ease the hairballs - do not use this if your cat is having issues with their stool, it will make it worse. 
 * A teaspoon or so of olive oil in your cat’s food can help ease hairballs over time. 
+## Vomiting
 ## Thyroid
 ## FIV
 ## FeLV
 ## Feline Panleukopenia
 ## Lungworm
 ## Underweight
+## Dental Issues
+* [How to Keep Your Cat’s Mouth Healthy](https://www.catbehaviorassociates.com/how-to-keep-your-cats-mouth-healthy/)
+## Aging
+* [Caring for Senior and Geriatric Cats](https://www.catbehaviorassociates.com/caring-for-senior-and-geriatric-cats/)
 
 # Behavioral Issues
 ## Going outside box
@@ -57,10 +64,16 @@ Some of these worms can be transmitted to humans, so handle your cat and their s
 * Make sure you are cleaning your boxes daily. 
 * If you are using a scented litter, try an unscented litter. 
 * Try a litter with an attractant like Dr Elsey’s Cat Attract. 
+* [Litter Box Aversion](hhttps://www.catbehaviorassociates.com/category/litter-box-101/cat-litter-box-aversion/)
 ## Not getting along
 * If this was a recent introduction, separate the cats and start over slowly.
 * If the cats were previously getting along, take them to the vet to rule out a medical cause like pain or illness. 
 *  Make sure each cat has their own space to be alone - their own bed, enough space to feel like they’re not on top of one another. 
+## Anxiety
+### CBD
+There is a lot out there on CBD. Here are some resources.
+
+* [CBD Oil for Cats: Will it Help Their Anxiety?](https://www.wellnesspetfood.com/our-community/wellness-blog/cbd-oil-cats-will-it-help-their-anxiety)
 
 ## Spraying/Marking
 ## Scratching
