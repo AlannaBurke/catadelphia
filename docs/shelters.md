@@ -197,7 +197,6 @@ A non-profit organization offering affordable high-quality spay/neuter and preve
 Low cost spay/neuter and basic veterinary care for owners who cannot afford care else where, as well as for rescues and feral cat trappers.
 
 Non-emergency appointments only.
-
 <details>
  <summary>Learn More</summary>
 
@@ -236,7 +235,6 @@ Non-emergency appointments only.
 Low cost spay/neuter and BASIC veterinary care for owners who cannot afford care elsewhere.
 
 Non-emergency appointments only.
-
 <details>
  <summary>Learn More</summary>
 
@@ -274,7 +272,6 @@ Friday and Saturday 10AM- 4PM
  
 
 ## Morris Animal Refuge
-
 <details>
  <summary>Learn More</summary>
 
@@ -299,8 +296,35 @@ Closed
 # Shelters & Clinics Outside of Philadephia
 ## Pennsylvania
 
-### Forgotten Cats
+### Main Line Animal Rescue
+<details>
+ <summary>Learn More</summary>
 
+#### Contact
+**Website:** [https://www.mlar.org](https://www.mlar.org)    
+**Email:** info@mlar.org
+#### Location
+1149 Pike Springs Road  Phoenixville, PA 19460#### Hours
+</details>
+
+### Kitty Cottage
+Kitty Cottage Adoption Center, Inc. is a no-kill shelter for rescued and surrendered cats and kittens in the Greater Philadelphia area. Our mission is to facilitate adoptions by housing the cats in a cage-free, home-like shelter where adopters and cats can interact and thus be matched up more effectively than if the cats were restricted to cages. Our environment is ideal for senior citizens and those with disabilities to enjoy the comfort and therapeutic value of being around animals.
+<details>
+ <summary>Learn More</summary>
+
+#### Contact
+**Website:** [https://www.kittycottage.org](https://www.kittycottage.org)    
+**Phone:** (610) 731-0101
+**Email:** kittycottagepa@gmail.com
+#### Location
+317 W Johnson Hwy Norristown, PA 19401  
+#### Hours
+* Monday & Tuesday: Closed 
+* Wednesday - Friday: 11:00AM-5:00PM
+* Saturday & Sunday: 11:00AM-3:00PM
+</details>
+
+### Forgotten Cats
 <details>
  <summary>Learn More</summary>
 
@@ -313,8 +337,41 @@ Trainer and Willow Grove, PA
 
 </details>
 
-### Brandywine Valley SPCA
+### Royce's Rescue
+Royce's Rescue is a non-profit 501(c)(3) organization at Sommerfield Stables. We are dedicated to the rehabilitation and placement of neglected or unwanted horses, dogs and cats. Royce's Rescue is made up of animal lovers and professionals that decided to take assertive action to help the animals in need.
+<details>
+ <summary>Learn More</summary>
 
+#### Contact
+**Website:** [https://www.roycesrescue.org](https://www.roycesrescue.org)    
+**Phone:** 215-801-6398 
+**Email:** linsatter@verizon.net
+#### Location
+374 Worthington Mill Road Richboro, PA  18954  
+</details>
+
+### Bucks County SPCA
+The Bucks County SPCA is an independent, non-profit organization, incorporated in 1912 by the Commonwealth of Pennsylvania.
+<details>
+ <summary>Learn More</summary>
+
+#### Contact
+**Website:** [http://www.bcspca.org](http://www.bcspca.org)    
+**24 Hour Emergency Phone:** 215.794.7425 
+**Email:** info@bcspca.org
+#### Location
+**Lahaska**
+1665 Street Road New Hope, PA 18938    
+**Phone:** 215-794-7425 (for service during business hours and also for after-hours emergencies)    
+**Upper Bucks**    
+60 Reservoir Rd. Quakertown, PA 18951    
+**Phone:**  267-347-4674    
+#### Hours
+* Monday – Friday: Noon to 6:00 pm
+* Saturday-Sunday: Noon to 3:00 pm
+</details>
+
+### Brandywine Valley SPCA
 <details>
  <summary>Learn More</summary>
 
@@ -353,7 +410,6 @@ Trainer and Willow Grove, PA
 
 ### Spayed Club Clinic
 A non-profit organization offering low cost spay/neuter and primary care services, including wellness visits, vaccinations, blood tests and treatment for common problems such as skin, eye and ear issues and minor injuries. 
-
 <details>
  <summary>Learn More</summary>
 
@@ -424,7 +480,6 @@ A non-profit organization offering low cost spay/neuter and primary care service
 Offers low cost veterinary care to all dog and cat owners. Services include spay/neuter, wellness checks, general preventative care, soft tissue surgery and dentals.
 
 Not an emergency facility and not offering euthanasia services.
-
 <details>
  <summary>Learn More</summary>
 
@@ -486,7 +541,6 @@ Not an emergency facility and not offering euthanasia services.
 
 ### The Bridge Clinic
 A community minded organization offering a wellness clinic and low cost spay/neuter surgeries. A not for profit institution connected to a no-kill shelter, Rescue Purrfect.
-
 <details>
  <summary>Learn More</summary>
 
@@ -530,7 +584,6 @@ Email:
 					
 ### Women’s Humane Society:
 A non-profit, open-admission animal shelter, as well as, an AAHA accredited veterinary hospital offering affordable veterinary care, physical rehabilitation, and surgery. Surgeries offered include spay/neuter, emergency pyometra spays and dystocias, hernia repair, dew claw removal, mass removal, dental cleaning and surgery, ophthalmic and optic surgery, cystotomy, gastrointestinal surgery, amputations and rabbit neuters. Dog training classes are also available.
-
 <details>
  <summary>Learn More</summary>
 
@@ -577,8 +630,30 @@ A non-profit, open-admission animal shelter, as well as, an AAHA accredited vete
 </details>
 
 ## New Jersey
-### People For Animals
 
+### Burlington County Animal Shelter 
+<details>
+ <summary>Learn More</summary>
+
+#### Contact
+**Website:** [http://www.co.burlington.nj.us/168/Animal-Shelter](http://www.co.burlington.nj.us/168/Animal-Shelter)    
+**Phone:** 609-265-5073
+**Fax:** 609-702-7099
+#### Location
+Burlington County Animal Shelter    
+County Facilities Complex    
+35 Academy Drive    
+Westampton, NJ 08060      
+#### Hours
+* Monday - Sunday    
+* 12 p.m. - 4 p.m. 
+* Thursday
+* 12 p.m. - 7 p.m. 
+* Closed on Holidays
+</details>
+
+
+### People For Animals
 <details>
  <summary>Learn More</summary>
 
@@ -797,6 +872,70 @@ A private, non-profit animal welfare organization offering a low cost spay/neute
     * Puppy/Kitten Deworming (dose): $5 
     </details>
 
+### Animal Alliance NJ
+Founded in 2001, Animal Alliance is an animal welfare organization that rescues and rehabilitates homeless animals, caring for them until they are adopted. We focus our efforts on animals facing euthanasia at other shelters, as well as those who were victims of cruelty or neglect. We know the only way to fix pet overpopulation is to "fix" our pets. We are dedicated to ensuring that all pet owners, regardless of income, have access to affordable spay/neuter services. So in 2009, Animal Alliance founded the Planned Pethood low-cost spay/neuter clinic. Planned Pethood also offers affordable, basic veterinary care with the aim of keeping at-risk pets in their homes and out of shelters.
+<details>
+ <summary>Learn More</summary>
+
+#### Contact
+**Address:** 1432 Route 179 Lambertville, NJ 08530    
+**Phone:** (609) 818-1952    
+**Email:** animalalliance@comcast.net    
+[https://www.animalalliancenj.org](https://www.animalalliancenj.org)
+
+#### Hours
+**Cliic:**
+
+* TUESDAY
+* Drop-off: 8:00-10:00am
+* Pick-up: 3:00pm OR 6:00pm
+
+* WEDNESDAY
+* Drop-off: 8:00-10:00am
+* Pick-up: 3:00pm OR 6:00pm
+
+* THURSDAY
+* Drop-off: 8:00-10:00am
+* Pick-up: 3:00pm OR 6:00pm  
+
+#### Prices
+Weight |Price| Type |Price
+----|----|----|----
+Dogs ||Cats
+2-39 pounds |$175
+40-59 pounds |$195| Female|$100
+60-79 pounds |$255| Male| $90
+80-99 pounds |$300| Feral Special*| $70
+100+ pounds |$400
+
+* This “Good Samaritan” rate is reserved for those caring for outdoor/wild/feral cats. Includes spay or neuter
+surgery, rabies shot and ear tip. Cat must be feral to qualify for this price. 
+
+**Pyometra (infected uterus) is a medical emergency and the need for spay surgery is urgent, call for pricing and
+appointment, do not wait!**
+
+#### Additional Charges for Spay/Neuter Services
+
+ * Brachycephalic Dogs (flat face) + $50 for additional monitoring due to complexity of breathing system. Examples of these breeds are: Shih-Tzu, Boston Terrier, Boxer, Lhasa Also, Pug, French Bulldog, Cavalier King Charles Spaniel, Boston Terrier, Pekingese. Some mixed breeds also have this characteristic and will be charged. Click here for more information on health and breathing problems that can be encountered by these dogs: We do not provide surgery for English Bulldogs due to their extreme brachycephalic skulls.
+ * Pregnancy: +$50. Pregnancies are humanely terminated during spay procedures. It is unlikely that we will know if animal is in early stages of pregnancy. Once surgery is underway, there is nothing that can be done to change course.
+ * In Heat: +$50. You would likely know in advance if your animal is in heat due to bloody discharge.
+ * Undescended Testicle Charges: (Dog +$75 per testicle; Cat +50 per testicle) Surgeon must cut abdomen and find testicle(s). This is not a common condition and you would know in advance if your animal had only one visible testicle. Both retained testicles is very rare.
+ * Shavedown for Matted Long Hair Dog: +$30
+
+#### Other Veterinary Services
+Service | Price
+----|----
+Rabies Vaccine |$25
+Feline Distemper Combo Vaccine (FVRCP) |$25
+Canine Distemper Combo Vaccine (DHPP)|$25
+Canine Bordatella Vaccine |$25
+Canine Influenza Vaccine |$50
+Feline Leukemia & FIV Test| $40
+Microchipping |$30
+Heartworm Test |$40
+
+</details>
+
 
 # Philadelphia Rescues
 [PAWS](https://phillypaws.org/)
@@ -815,12 +954,18 @@ A private, non-profit animal welfare organization offering a low cost spay/neute
 
 [Brenda's Cat Rescue](https://www.brendascatrescue.org)
 
+[Northeast Animal Rescue](https://nar.rescuegroups.org)
+
+[The Philly Kitty](http://www.thephillykitty.org)
+
+[Whiskers of Love Cat Rescue & Sanctuary](https://www.facebook.com/whiskersofloverrescue/)
+
 
 # Rescues Outside of Philadelphia
 ## Pennsylvania
 [The Pet Adoption and Lifecare Society](https://www.adoptapet.com/pals/)
 
-[All 4 Paws Rescue - Chester Springs](https://www.all4pawsrescue.com/)
+[All 4 Paws Rescue - Chester County](https://www.all4pawsrescue.com/)
 
 [Wags Rescue and Referral - Bucks County](http://www.wagsrescue.org/)
 
@@ -832,9 +977,23 @@ A private, non-profit animal welfare organization offering a low cost spay/neute
 
 [Noah's Ark Rescue Project and Sanctuary - Chester County](https://www.noahsarps.com)
 
-[Renaissance Cats Rescue Group - Brookhaven](https://www.adoptapet.com/renaissance-cats-rescue-group)
+[Renaissance Cats Rescue Group - Delaware County](https://www.adoptapet.com/renaissance-cats-rescue-group)
 
-[C.A.T.S. Bridge To Rescue, Inc. (Caring About The Strays) - Trevose](http://www.catsbridge.org)
+[C.A.T.S. Bridge To Rescue, Inc. (Caring About The Strays) - Bucks County](http://www.catsbridge.org)
+
+[Rescue Purrfect - Bucks County](https://www.rescuepurrfect.org/)
+
+[Four the Paws Inc. - Bucks County](https://fourthepaws.rescuegroups.org/)
+
+[Save The Cats Inc. - Bucks County](https://www.savethecatsinc.com/info/index)
+
+[Bingo's Foundation - Bucks County](http://bingosfoundation.org/wordpress/)
+
+[Kitty Junction - Bucks County](http://www.kittyjunction.org)
+
+[Catnip Rescue - Delaware County](http://www.catniprescue.org)
+
+[Cat Angel Network - Montgomery & Chester Counties](http://catangel.org)
 
 ## New Jersey
 [Easel Animal Rescue League - Mercer County](https://www.easelnj.org)
@@ -875,6 +1034,7 @@ A private, non-profit animal welfare organization offering a low cost spay/neute
 
 [Saved Whiskers Rescue Organization, Inc](https://www.facebook.com/SavedWhiskersRescue/)
 
+[All Fur Love - Monmouth County](https://www.allfurlove.org/)
 
 # Philadelphia Organizations
 [Philadelphia Community Cats Council](http://www.phillycats.org/)
@@ -896,16 +1056,26 @@ A private, non-profit animal welfare organization offering a low cost spay/neute
 
 [Catadelphia Barn/Working Cat Group](https://www.facebook.com/groups/351459658672596/)
 
+[NE Philly AdvoCATS](https://www.facebook.com/groups/263537170720810)
+
 
 # Organizations Outside of Philadelphia
 
 ## Pennsylvania
 
+[Animal Friends Furever - Warminster](https://www.affrescue.com/)
+
+[No Kill Lehigh Valley](http://www.nokilllv.org/)
+
+[Humane PA - Pennsylvania's Political Voice for Animals](https://humane-pa.org/)
+
+[Humane Pennsylvania](https://humanepa.org)
+
+### Facebook Groups
+
 [Community Kitties Outside the City](https://www.facebook.com/groups/phlsuburbscats/)
 
 [Lower Bucks County Community Kitties](https://www.facebook.com/groups/794636537591059/)
-
-[Animal Friends Furever - Warminster](https://www.affrescue.com/)
 
 ## New Jersey
 
@@ -913,7 +1083,6 @@ A private, non-profit animal welfare organization offering a low cost spay/neute
 [CAT & KITTEN Fostering Network of NJ](https://www.facebook.com/groups/kittyfoster/)
 
 ## NJ & PA
-
 
 [Dogs & Cats In Philly & NJ that need Adopted or Rescued](https://www.facebook.com/groups/971136282981190/)
 

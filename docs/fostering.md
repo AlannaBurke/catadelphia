@@ -8,6 +8,8 @@ Here is a link to her book:
 
 [Tiny But Mighty: Kitten Lady's Guide to Saving the Most Vulnerable Felines](https://www.amazon.com/Tiny-But-Mighty-Vulnerable-Felines/dp/1524744069/)
 
+Here is a study about how a vitamin and mineral supplement increased survival rates in kittens: [https://www.ncbi.nlm.nih.gov/pubmed/30920335](https://www.ncbi.nlm.nih.gov/pubmed/30920335)
+
 ## Supplies
 Here's what recommend having on hand if you intend on regularly caring for young kittens.
 
