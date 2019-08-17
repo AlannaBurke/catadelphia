@@ -102,6 +102,9 @@ Website: [https://www.emekasfund.org](https://www.emekasfund.org)
 Contact Form: [https://www.emekasfund.org/contact-us](https://www.emekasfund.org/contact-us) 				
 
 # Sam's Hope Programs
+<details>
+ <summary>Learn More</summary>
+
 ## Sam’s Hope Veterinary Care Assistance Program
 
 **Contact:**
@@ -205,6 +208,7 @@ Pet food is currently being distributed via the following food pantries:
 * Harvest Ministries Food Pantry at Cornwells UM Church, Bensalem, PA
 * Jesus Focus Ministry Food Pantry, Southampton, PA
 * Shepherd's Shelf Food Emergency Food Cupboard, Kulpsville, PA	
+</details>	
 
 # The Pet Fund:
 A non-profit organization that provides financial assistance to owners of domestic animals who need veterinary care.
@@ -222,7 +226,7 @@ A non-profit organization that provides financial assistance to owners of domest
 * Proof of income
 * Copy of a written cost estimate for the needed procedures and/or treatment from your veterinarian.
 * Name, address, and medical license number for your treating veterinarian.
-				
+			
 
 # Brandywine Valley SPCA Programs		
 ## Henry's Cupboard

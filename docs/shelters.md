@@ -960,6 +960,8 @@ Heartworm Test |$40
 
 [Whiskers of Love Cat Rescue & Sanctuary](https://www.facebook.com/whiskersofloverrescue/)
 
+[Stray Cat Relief Fund](http://straycatrelieffund.org/)
+
 
 # Rescues Outside of Philadelphia
 ## Pennsylvania
@@ -994,6 +996,10 @@ Heartworm Test |$40
 [Catnip Rescue - Delaware County](http://www.catniprescue.org)
 
 [Cat Angel Network - Montgomery & Chester Counties](http://catangel.org)
+
+[Pawsibilities Animal Rescue](https://www.pawsibilities-rescue.org/)
+
+[Stray Cat Blues - Montgomery, Bucks](https://www.straycatblues.org)
 
 ## New Jersey
 [Easel Animal Rescue League - Mercer County](https://www.easelnj.org)
@@ -1035,6 +1041,10 @@ Heartworm Test |$40
 [Saved Whiskers Rescue Organization, Inc](https://www.facebook.com/SavedWhiskersRescue/)
 
 [All Fur Love - Monmouth County](https://www.allfurlove.org/)
+
+## NJ & PA
+
+[Kizzy's Place](http://www.kizzysplace.com)
 
 # Philadelphia Organizations
 [Philadelphia Community Cats Council](http://www.phillycats.org/)
