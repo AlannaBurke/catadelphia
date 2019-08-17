@@ -48,7 +48,21 @@ Email [info@catadelphia.org](mailto:info@catadelphia.org)
 * Keep the kitten warm with a heating pad or hot water bottle under a blanket - not too hot! You can also microwave a sock full of rice and put it next to the kitten to snuggle up against. 
 * Do NOT feed the kitten cow’s milk or anything other than Kitten Milk Replacer. You can get this at Walmart and most grocery stores, 24 hours a day. 
 
+# RESCUE KIT
+## What to have at home
+* Cat food (wet/dry)
+* Water
+* Clean towels
+* Crate
+* Cleaning Supplies
 
+## What to keep in your car
+* Cat Carrier
+* Cat Trap
+* Trap Cover
+* Cat food (wet/dry)
+* Water
+* Clean towels
 
 
 
