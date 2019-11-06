@@ -628,6 +628,92 @@ A non-profit, open-admission animal shelter, as well as, an AAHA accredited vete
     * Costs of surgery depends on the type of surgery, size and gender of pet. Contact 215.750.5252 for more information. 
 
 </details>
+			
+### The Affordable Spay Neuter Clinic and Pet Care:
+The Affordable Spay Neuter Clinic and Pet Care provides medical and surgical care including low cost spay and neuter services for the southeastern Pennsylvania region. We have performed over seventeen thousand surgical and dental procedures of all types since 2008 at our current location and many thousands more since 1987 for rescue organizations and in private hospitals. We are also fully equipped to treat both well and sick patients by appointment.
+<details>
+ <summary>Learn More</summary>
+
+#### Location: 1486 S. Hanover St Pottstown, PA 19465
+#### Contact:
+**Phone:**
+215.750.3100
+**Fax**
+610.327.1074
+
+**Email:** [asnc11@gmail.com](mailto:asnc11@gmail.com)      
+**Website:**  [/http://www.affordablespay.com/](http://www.affordablespay.com/)      
+**Facebook:** [www.facebook.com/affordablespay](www.facebook.com/affordablespay)
+
+#### Hours
+* Monday 7:30 am - 6:00 pm
+* Tuesday 7:30 am - 6:00 pm
+* Wednesday 7:30 am - 6:00 pm
+* Thursday CLOSED
+* Friday 9:00 am - 1:30 pm
+* Saturday 9:00 am - 1:30 pm
+* Sunday CLOSED
+#### Services
+
+### Medical Care
+We are accepting patients for general veterinary care.
+
+### Surgery
+Spaying and neutering,  puppy hernia and dewclaw removal are performed daily. Other types of surgery, both major (including orthopedic and tumors) and minor, are also available on a case by case basis. We perform all surgeries commonly performed in general practice and lots of special surgeries too. Surgical fees have consistently proven to be substantially less than at other private practices in the southeast Pennsylvania region. 
+
+### Vaccine Prophylaxis
+Vaccinations and testing while admitted for surgery or by appointment.
+
+### Diagnostics
+In house digital X-ray and clinical laboratory for medical and surgical cases. In house Abaxis blood analyzers for immediate results.
+
+### Medical Treatments
+including ear mite treatment, nail trims, anal sac expression while in for surgery.   Other medical problems can be treated by appointment.
+
+### Fully Stocked Pharmacy
+including all commonly prescribed medications and parasite control products
+
+### Dental Scaling, Polishing and Extractions (including surgical)
+
+**Please Note**
+Surgical and dental patients must be 4 years or less when scheduled for routine procedures at The Affordable Spay Neuter Clinic and Pet Care. Patients 5 years and older will be treated following an evaluation by the doctor in the Clinic during office hours. Pets over 1 year of age will require blood testing at the Clinic before anesthesia for a nominal fee.
+
+#### Fees
+### Surgery Fees - Sterilization
+||Spay (Female)|	Neuter (Male)|
+|----|----|---|
+|Cats|		$94|	$89|
+|Dogs		|$180 (<25 lbs.)|	$178 (<25 lbs.)|
+||$198 (26 - 50 lbs.)|	$198 (26 - 50 lbs.)|
+||$216 (51 - 80 lbs.)|	$216 (51 - 80 lbs.)|
+||$234 (81 - 100 lbs.)|	$234 (81 - 100 lbs.)|
+
+Dogs over 100 lbs. will require an office evaluation prior to spaying or neutering.
+
+* It is preferable that dogs "in heat" (estrus) not be operated upon until the cycle has ended due to the possibility of additional surgical time and materials. This is usually 8 weeks after genital swelling has subsided. Female dogs and cats in heat can be safely spayed during their cycle without additional surgical risk. 
+
+* Umbilical (belly button) hernias, retained puppy teeth, and rear dewclaws should be removed at the time of your pets’ sterilization procedure. Fees for these procedures are also discounted and can be discussed when your appointment is made.
+
+### Other Services
+|----|----|---|---|
+|Dental Cleaning  (includes routine ultrasonic scaling and polishing)|With Sterilization Surgery|	Feline	|$85 - 115|
+|||Canine|	$95 - 125|
+|----|----|---|---|
+|Office Visit	|||		$42 - 60|
+|Microchip Implantation and Registration|	$44		|||
+|Rabies Vaccination	|$19|	Ear Cleaning|	$18|
+|Distemper (Dog or Cat)	|$32|	Nail Trimming|	$13|
+|Heartworm/Lyme /Ehrlichia & Anaplasmosis Blood Testing (Dog)	|$47|	Anal Sac Expression	|$18|
+|Influenza (Dog)|	$26|	Bravecto 3 Month Flea and Tick Control|	$54|
+|FIV/FELV Testing (Cat)	|$45	|Activyl Flea & Tick Treatment|	$17|
+|E-collar Dispensed|	$17|	Rear Dewclaw Removal (Puppies)|	$60 - $85 per toe|
+|Pain Medications Dispensed	|$21|	Retained Puppy Teeth Removal|	$25 - $45 per tooth|
+|Kennel Cough Vaccination	|$28	|De-Worming|	$26|
+|Leukemia Vaccination (Cat)|	$34	|Lyme Disease Vaccination (Dog)|	$46|
+
+### Low Cost Vaccine Clinic
+The Affordable Spay Neuter Clinic also sponsors a monthly low-cost vaccine clinic at Diane's Discount Pet Supplies and Adoption Center. The vaccine clinic is usually held on the first Saturday of each month. To check for the next scheduled date, please visit [www.ddpets.com](www.ddpets.com).
+</details>
 
 ## New Jersey
 
@@ -1099,6 +1185,12 @@ Heartworm Test |$40
 ## National
 
 [Best Friends](https://bestfriends.org)
+
+[Alley Cat Allies](https://www.alleycat.org/)
+
+[Feral Cat Caretakers' Coalition](http://www.feralcatcaretakers.org/index.html)
+
+[Neigborhood Cats](https://www.neighborhoodcats.org/)
 
 ### Facebook Groups
 

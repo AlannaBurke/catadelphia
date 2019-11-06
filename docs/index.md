@@ -63,6 +63,10 @@ Email [info@catadelphia.org](mailto:info@catadelphia.org)
 * Cat food (wet/dry)
 * Water
 * Clean towels
+* Newspaper
+* Garbage bags
+* Flashlight
+* plastic containers for feeding
 
 
 

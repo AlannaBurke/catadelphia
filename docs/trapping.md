@@ -26,7 +26,7 @@
 
 # How to Trap
 * [The 7 Steps of TNR](https://www.neighborhoodcats.org/how-to-tnr/getting-started/the-7-steps-of-tnr)  
-* [TNR Handbook from Neighborhood Cats](files/Community-Resources-for-Pet-Owners.pdf)    
+* [TNR Handbook from Neighborhood Cats](files/nc_tnr_handbook_web_v5-4.pdf)    
 
 * Withhold food for a couple of days - just a couple, nothing extreme. The cats need to be just hungry enough to ignore the instincts telling them not to go into the trap.
 * Don’t put the trap out in the open. Try to put it next to a building, under a bush - make it blend in as best you can. 
@@ -37,7 +37,15 @@
 
 ## Drop Trapping
 * If you have a cat who will not go into a trap, consider using a drop trap.
+* [Drop Trap Basics](https://www.neighborhoodcats.org/how-to-tnr/trapping/drop-traps)
 ## Using a Net
+
+# Trapping Supplies
+* Traps (Box trap or Tru-Catch Trap)
+* Smelly canned food
+* Trap cover
+* Newspaper
+* Flashlight
 
 # Colony Management
 ## Have a Colony Manager
