@@ -695,13 +695,13 @@ Dogs over 100 lbs. will require an office evaluation prior to spaying or neuteri
 * Umbilical (belly button) hernias, retained puppy teeth, and rear dewclaws should be removed at the time of your pets’ sterilization procedure. Fees for these procedures are also discounted and can be discussed when your appointment is made.
 
 ### Other Services
-|----|----|---|---|
-|Dental Cleaning  (includes routine ultrasonic scaling and polishing)|With Sterilization Surgery|	Feline	|$85 - 115|
-|||Canine|	$95 - 125|
-|----|----|---|---|
-|Office Visit	|||		$42 - 60|
-|Microchip Implantation and Registration|	$44		|||
-|Rabies Vaccination	|$19|	Ear Cleaning|	$18|
+|Dental Cleaning (includes routine ultrasonic scaling and polishing)|With Sterilization Surgery|	Feline	|$85 - 115|
+|---|---|---|---|
+|||Canine|$95 - 125|
+|||||
+|Office Visit|||$42 - 60|
+|Microchip Implantation and Registration|$44|||
+|Rabies Vaccination	|$19|	Ear Cleaning|$18|
 |Distemper (Dog or Cat)	|$32|	Nail Trimming|	$13|
 |Heartworm/Lyme /Ehrlichia & Anaplasmosis Blood Testing (Dog)	|$47|	Anal Sac Expression	|$18|
 |Influenza (Dog)|	$26|	Bravecto 3 Month Flea and Tick Control|	$54|
